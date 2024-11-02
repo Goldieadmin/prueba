@@ -25,7 +25,7 @@ El proyecto está dividido en las siguientes aplicaciones:
 1. Clona el repositorio y navega al directorio del proyecto:
 
     ```bash
-    git clone https://github.com/usuario/delivery_backend.git
+    git clone https://yummiesdelivery@dev.azure.com/yummiesdelivery/Backend/_git/Backend
     cd delivery_backend
     ```
 
