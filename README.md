@@ -111,3 +111,4 @@ Los endpoints están agrupados en varias aplicaciones:
 
 Este proyecto utiliza JWT (JSON Web Token) para la autenticación de usuarios. Asegúrate de incluir el token en los encabezados de las solicitudes a endpoints protegidos:
 
+## License MIT
